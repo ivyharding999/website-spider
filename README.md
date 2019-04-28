@@ -1,2 +1,2 @@
 # website-spider
-爬去新浪新闻
+爬取新浪新闻
